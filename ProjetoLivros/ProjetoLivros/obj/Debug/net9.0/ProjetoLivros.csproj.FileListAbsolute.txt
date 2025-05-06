@@ -170,3 +170,4 @@ C:\Users\Fic\Documents\Daniel\ProjetoLivros\ProjetoLivros\ProjetoLivros\obj\Debu
 C:\Users\Fic\Documents\Daniel\ProjetoLivros\ProjetoLivros\ProjetoLivros\obj\Debug\net9.0\ProjetoLivros.pdb
 C:\Users\Fic\Documents\Daniel\ProjetoLivros\ProjetoLivros\ProjetoLivros\obj\Debug\net9.0\ProjetoLivros.genruntimeconfig.cache
 C:\Users\Fic\Documents\Daniel\ProjetoLivros\ProjetoLivros\ProjetoLivros\obj\Debug\net9.0\ref\ProjetoLivros.dll
+C:\Users\Fic\Documents\Daniel\ProjetoLivros\ProjetoLivros\ProjetoLivros\obj\Debug\net9.0\ProjetoLivros.sourcelink.json
