@@ -6,14 +6,14 @@ namespace ProjetoLivros.Inteface
 {
     public interface IUsuarioRepository
     {
-        List<ListarUsuarioViewModel> ListarTodos();
+        Task<List<ListarUsuarioViewModel>> ListarTodosAsync();
 
         ListarUsuarioViewModel BuscarPorId(int id);
 
-        void Cadastar (CadastrarUsuarioDto usuario);
+        void Cadastrar (CadastrarUsuarioDto usuarioDto);
 
-        void Atualizar (CadastrarUsuarioDto usuario);
+        Usuario? Atualizar(int id, AtualizarUsuarioDto usuarioNovo);
 
-        void Deletar (int id);
+        Usuario? Deletar (int id);
     }
 }

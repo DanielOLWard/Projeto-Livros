@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\dto\\atualizarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\dto\\atualizarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\intefaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\intefaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\viewmodels\\listarusuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +35,12 @@
       "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\dto\\cadastrarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\intefaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\intefaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\daniel\\projetolivros\\projetolivros\\projetolivros\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36B9E6-7DE6-4A96-A0B6-29AAB371E253}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +50,45 @@
       "DocumentGroups": [
         {
           "DockedHeight": 586,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListarUsuarioViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\ViewModels\\ListarUsuarioViewModel.cs",
-              "RelativeDocumentMoniker": "ProjetoLivros\\ViewModels\\ListarUsuarioViewModel.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\ViewModels\\ListarUsuarioViewModel.cs",
-              "RelativeToolTip": "ProjetoLivros\\ViewModels\\ListarUsuarioViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Program.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Program.cs",
+              "RelativeToolTip": "ProjetoLivros\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T00:48:34.163Z",
+              "WhenOpened": "2025-05-06T22:58:40.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CadastrarUsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Dto\\CadastrarUsuarioDto.cs",
-              "RelativeDocumentMoniker": "ProjetoLivros\\Dto\\CadastrarUsuarioDto.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Dto\\CadastrarUsuarioDto.cs",
-              "RelativeToolTip": "ProjetoLivros\\Dto\\CadastrarUsuarioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Services\\PasswordService.cs",
+              "RelativeToolTip": "ProjetoLivros\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T00:45:59.786Z",
+              "WhenOpened": "2025-05-06T22:56:19.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ProjetoLivros\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:08:03.134Z",
               "EditorCaption": ""
             },
             {
@@ -66,33 +99,85 @@
               "RelativeDocumentMoniker": "ProjetoLivros\\Repositories\\UsuarioRepository.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Repositories\\UsuarioRepository.cs",
               "RelativeToolTip": "ProjetoLivros\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAzwBwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwF0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T00:38:43.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Intefaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "ProjetoLivros\\Intefaces\\IUsuarioRepository.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Intefaces\\IUsuarioRepository.cs",
               "RelativeToolTip": "ProjetoLivros\\Intefaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T00:28:18.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "CadastrarUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Dto\\CadastrarUsuarioDto.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Dto\\CadastrarUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Dto\\CadastrarUsuarioDto.cs",
+              "RelativeToolTip": "ProjetoLivros\\Dto\\CadastrarUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:45:59.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtualizarUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Dto\\AtualizarUsuarioDto.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Dto\\AtualizarUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Dto\\AtualizarUsuarioDto.cs",
+              "RelativeToolTip": "ProjetoLivros\\Dto\\AtualizarUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:14:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarUsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\ViewModels\\ListarUsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\ViewModels\\ListarUsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\ViewModels\\ListarUsuarioViewModel.cs",
+              "RelativeToolTip": "ProjetoLivros\\ViewModels\\ListarUsuarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:03:46.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Services\\TokenService.cs",
+              "RelativeToolTip": "ProjetoLivros\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:56:04.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ProjetoLivros\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\Daniel\\ProjetoLivros\\ProjetoLivros\\ProjetoLivros\\Models\\Usuario.cs",
               "RelativeToolTip": "ProjetoLivros\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T00:03:46.295Z",
               "EditorCaption": ""

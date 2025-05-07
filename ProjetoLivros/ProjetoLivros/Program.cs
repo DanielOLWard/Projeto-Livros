@@ -8,8 +8,16 @@
 */
 
 using ProjetoLivros.Context;
+using ProjetoLivros.Inteface;
+using ProjetoLivros.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Avisa que a aplicacao usa controllers
+builder.Services.AddControllers();
+
+// Adiciono o Gerador de Swagger
+builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<LivrosContext>(); // Define onde esta o Contexto no Codigo
 
@@ -18,6 +26,19 @@ builder.Services.AddDbContext<LivrosContext>(); // Define onde esta o Contexto n
  * dotnet ef database update // Crio o Banco de dados
 */
 
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
 var app = builder.Build();
+
+// Avisa o .Net que eu tenho Controllers
+app.MapControllers();
+
+// Aplica o Swagger
+app.UseSwagger();
+app.UseSwaggerUI(options => // Faz o Swagger abrir direto
+{
+    options.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+    options.RoutePrefix = string.Empty;
+});
 
 app.Run();

@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "ProjetoLivros.Controllers.UsuarioController",
+    "Method": "ListarUsuarios",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoLivros.Controllers.UsuarioController",
+    "Method": "CadastrarUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioDto",
+        "Type": "ProjetoLivros.Dto.CadastrarUsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
