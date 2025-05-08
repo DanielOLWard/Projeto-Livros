@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using ProjetoLivros.Dto;
 using ProjetoLivros.Inteface;
+using ProjetoLivros.Services;
 
 namespace ProjetoLivros.Controllers
 {
@@ -11,6 +12,8 @@ namespace ProjetoLivros.Controllers
     {
         private IUsuarioRepository _usuarioRepository;
 
+        // Instanciar o PasswordService
+        private PasswordService _passwordService;
         // Injecao de dependencia
         // Ao invez  de EU instanciar a classe, Eu aviso que DEPENDO dela, e a responsabilidade de criar vai para a classe que for chamada
         public UsuarioController(IUsuarioRepository usuarioRepository)
@@ -23,6 +26,7 @@ namespace ProjetoLivros.Controllers
         {
             return Ok(_usuarioRepository.ListarTodosAsync());
         }
+
         [HttpPost]
         public IActionResult CadastrarUsuario(CadastrarUsuarioDto usuarioDto)
         {
@@ -30,5 +34,6 @@ namespace ProjetoLivros.Controllers
 
             return Created();
         }
+
     }
 }

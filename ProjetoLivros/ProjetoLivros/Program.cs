@@ -7,6 +7,8 @@
  * 6 - Criar os Controllers
 */
 
+using System.Text;
+using Microsoft.IdentityModel.Tokens;
 using ProjetoLivros.Context;
 using ProjetoLivros.Inteface;
 using ProjetoLivros.Repositories;
@@ -27,6 +29,23 @@ builder.Services.AddDbContext<LivrosContext>(); // Define onde esta o Contexto n
 */
 
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+builder.Services.AddAuthentication("Bearer")
+    .AddJwtBearer("Bearer", options =>
+    {
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = "livros",
+            ValidAudience = "livros",
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("minha-chave-ultra-mega-blaster-super-secreta-de-seguranca-so-senai"))
+        };
+    });
+
+builder.Services.AddAuthentication();
 
 var app = builder.Build();
 
