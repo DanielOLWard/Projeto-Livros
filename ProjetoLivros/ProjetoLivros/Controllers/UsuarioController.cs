@@ -21,12 +21,15 @@ namespace ProjetoLivros.Controllers
             _usuarioRepository = usuarioRepository;
         }
 
+        // Listar Usuarios
         [HttpGet]
-        public IActionResult ListarUsuarios()
+        public async Task <IActionResult> ListarUsuarios() // Se utilizar o async tem que usar o async e o task e emcapsular o IActionResult
         {
-            return Ok(_usuarioRepository.ListarTodosAsync());
+            var usuario = await _usuarioRepository.ListarTodosAsync(); // Criar uma variavel para guaradar o usuario e usar o await
+            return Ok(usuario);
         }
 
+        // cadastrar Usuario
         [HttpPost]
         public IActionResult CadastrarUsuario(CadastrarUsuarioDto usuarioDto)
         {
